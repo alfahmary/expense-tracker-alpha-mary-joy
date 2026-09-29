@@ -1,5 +1,9 @@
 # Expense Tracker
 
+## Live Demo
+https://alfahmary.github.io/expense-tracker-alpha-mary-joy/
+
+
 ## Overview
 A simple Expense Tracker web application built with HTML, CSS and vanilla JavaScript, created for the LTS Software Developer Intern recruitment task. Users can record income and expenses, see monthly spending broken down by category, and keep their data in the browser after a refresh.
 
@@ -33,7 +37,8 @@ expense-tracker-alpha-mary-joy/
 
 ## How to Run
 1. Download or clone this repository.
-2. Open `index.html` in any modern web browser (double-click the file, or right-click it and choose "Open with" your browser).
+2. Extract the repository if downloaded as a ZIP.
+3. Open `index.html` in any modern web browser (double-click the file, or right-click it and choose "Open with" your browser).
 
 No installation, server, or build step is required — everything runs directly in the browser.
 
